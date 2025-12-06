@@ -1,7 +1,7 @@
 # Underwater Image Enhancement
 
 ## Introduction
-Underwater images often suffer from poor visibility and color distortion due to light absorption and scattering by water. These issues make it challenging to analyze underwater scenes accurately, whether for marine research, exploration, or photography. One of the primariy concerns has been the absence of red color in the images. This project focuses on enhancing the quality of underwater images by addressing common problems such as low contrast, color imbalance, and blurriness, using advanced image processing techniques.
+Underwater images often suffer from poor visibility and color distortion due to light absorption and scattering of light by water. These issues make it challenging to analyze underwater scenes accurately, whether for marine research, exploration, or photography. One of the primariy concerns has been the absence of red color in the images. This project focuses on enhancing the quality of underwater images by addressing common problems such as low contrast, color imbalance, and blurriness, using advanced image processing techniques.
 
 The project is a python implementation of the paper **"Single underwater image enhancement based on differential attenuation compensation"**. The paper can be found [here](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.1047053/full). 
 
